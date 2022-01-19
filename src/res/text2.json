@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "img": "img1",
+            "text":"Żaba trawna (Rana temporaria) – gatunek płaza z rodziny żabowatych. Podobnie jak żaba dalmatyńska i żaba moczarowa należy do tzw. żab brunatnych, która to nazwa bierze się od koloru skóry tych zwierząt. Gatunek posiada szeroki zasięg występowania, obejmujący większą część Europy (w tym północne wybrzeża kontynentu) i zachodnią Azję. Zasiedla różnorodne siedliska klimatu umiarkowanego, zwłaszcza lasy. Rozmnaża się w płytkich zbiornikach wodnych. Duży wpływ na rozród wywiera temperatura, swój udział mają też szerokość geograficzna i drapieżnictwo. Występuje kijanka żywiąca się roślinami wodnymi, glonami i drobnymi zwierzętami wodnymi. Osobniki dorosłe są mięsożerne, poza sezonem rozrodczym wiodą lądowy tryb życia, polując zmierzchem i nocą. Zdarzają się przypadki zmiany płci. Ten pospolity płaz nie jest zagrożony wyginięciem, pomimo to figuruje w licznych Czerwonych Księgach i Listach. Negatywny wpływ wywierają nań m.in. zanieczyszczenie środowiska i fragmentacja siedlisk."
+        },
+        {
+            "id": 2,
+            "img": "img2",
+            "text":"Procesor (CPU) to jeden z najważniejszych podzespołów komputerowych. Jego zadaniem jest wymiana informacji między urządzeniami wejścia-wyjścia, kartą graficzną czy pamięcią RAM oraz przetwarzanie danych. Wiodącymi markami procesorów są AMD i Intel. Wydajność procesora określa przede wszystkim liczba rdzeni fizycznych i wątków. Każdy rdzeń fizyczny wykonuje jedno zadanie, dlatego CPU z większą liczbą rdzeni może wykonywać więcej zadań równocześnie. Aby jeszcze bardziej zwiększyć wydajność, producenci dzielą rdzenie fizyczne na wątki, czyli wirtualne wersje rdzenia. Procesory Intel używają w tym celu technologii Hyper-Threading (HT), a procesory AMD - SMT. Obecne procesory Intel mają od 4 do 18 rdzeni, natomiast AMD od 4 do 16 rdzeni.."
+        },
+        {
+            "id": 3,
+            "img": "img3",
+            "text":"Router Wi-Fi to urządzenie sieciowe, które rozdziela sygnał internetowy. Pozwala na jednoczesne korzystanie z usług internetowych z kilku komputerów, smatfonów, tabletów i telewizorów z technologią Smart TV. Większość routerów Wi-Fi posiada od jednego do nawet ośmiu portów LAN, umożliwiających również przewodowe dostęp do sieci w technologii Ethernet. Używają jej m.in. drukarki, laptopy oraz komputery stacjonarne wyposażone w karty sieciowe z gniazdem RJ-45. Sygnał przesyłany jest również bezprzewodowo, zgodnie ze standardami Wi-Fi. Do najpopularniejszych łączy wykorzystywanych przez dostawców internetu należą xDSL oraz ADSL. Z łączy xDSL korzystają sieci lokalne oraz telewizje kablowe (UPC, Vectra). Natomiast routery ADSL są w stanie przetwarzać sygnał telefoniczny, dzięki czemu można korzystać z usług dostawców wykorzystujących ten rodzaj łącza (Neostrada TP, Netia Dialog)."
+        },
+        {
+            "id": 4,
+            "img": "img4",
+            "text":"Ważki to owady amfibiotyczne. Larwy są ściśle związane z środowiskami wodnymi: rzekami, kanałami, jeziorami, stawami itd., natomiast dorosłe osobniki pędzą nadwodny tryb życia. Z reguły przebywają w okolicy zbiorników lub cieków wodnych, jednak w okresie poprzedzającym rozród i po rozrodzie chętnie polują na leśnych ścieżkach i polanach, oraz suchych łąkach czy wrzosowiskach. Samce wielu gatunków w okresie rozrodu nie opuszczają brzegów wód. Są terytorialne i przepędzają każdego rywala ze swoich kilku metrów powierzchni nad wodą. Latając (np. żagnice) lub przesiadując w centralnej części terytorium (np. ważkowate) wypatrują nowych samic, które pojawiają się w ich rewirach. Zarówno dorosłe ważki jak i ich larwy są drapieżnikami i odżywiają się innymi owadami. Niektóre gatunki ważek polują nawet na inne osobniki swojego gatunku lub gatunków pokrewnych."
+        },
+        {
+            "id": 5,
+            "img": "img5",
+            "text":"Karta graficzna, często też nazywana akceleratorem grafiki, to element komputera generujcy sygnał wizyjny (obraz) dla monitora. Podstawowym zadaniem karty graficznej jest przechowywanie informacji o zawartości ekranu monitora i odpowiednie sterowanie tą zawartością. Współczesne karty graficzne składają sie z wielu złożonych, współpracujących ze sobą komponentów. Procesor graficzny (GPU) jest odpowiedzialny za generowanie obrazu w pamięci obrazu. Pamięć obrazu - VideoRAM (VRAM), bufor ramki (framebuffer) - przechowuje cyfrowe dane obrazu. Pamięć ROM przechowuje dane, jak generator znaków, czy firmware karty graficznej. Zwykle ROM jest w postaci pamięci flash, co umożliwia aktualizację. Przetwornik cyfrowo-analogowy DAC przekształca cyfrowe dane z pamięci obrazu na analogowy sygnał sterujący dla monitora. Złącze umożliwia wymianę danych i sterowanie kartą graficzną - zazwyczaj używane są standardy PCI, AGP lub PCI-Express."
+        },
+        {
+            "id": 6,
+            "img": "img6",
+            "text":"Piękne, subtelne i delikatne, a zarazem zdumiewająco mocne. Motyle są jednym słowem niezwykłe. Mało które zwierzęta zachwycają swoim wyglądem w świecie natury, tak jak te owady. Majestatycznie unoszące się w powietrzu, motyle rozsiewają swoją magię i zapowiedzi wszelakich zmian.Motyle należą do olbrzymiej gromady owadów, liczącej blisko 200 tysięcy gatunków różnorodnych odmian. W samej Polsce opisano już około 3200 różnych gatunków motyli. Wielki motyli świat jest niezwykle różnorodny, począwszy od rozmiarów i kształtów osobników, kończąc na rozmaitych barwach i rysunkach skrzydeł, które same w sobie są prawdziwym cudem natury. W przeciwieństwie do innych owadów, motyle nie posiadają gruczołów jadowych, nie gryzą ani nie kłują."
+        }
+
+    ]
+}

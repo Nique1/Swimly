@@ -1,0 +1,19 @@
+.contentsDivClass {
+    background-color: hotpink;
+
+}
+
+.contentsDivClass p {
+    text-align: left;
+    padding:  5px;
+
+}
+.contentsDivClass div {
+    display: flex;
+}
+.contentsFlexImg{
+    flex: 1 1 auto;
+    min-width: 360px;
+    max-width: 400px;
+    padding: 10px;
+}
