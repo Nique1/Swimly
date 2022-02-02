@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <CHeader aName="Jan" aFamily="Kowalski"/>
       {/* <CHeader aName="Tomasz" aFamily="Nowak"/> */}
-      {/* <CContents/> */}
+      <CContents/>
       <COuter/>
       <CFooter weather="słoneczna" temp="25">
         <p>Niebo jest bezchmurne, wiatr słaby. </p>
