@@ -1,8 +1,23 @@
 .bgClassNormal {
-    background-color: cornflowerblue;
+    background-color: rgba(61, 110, 119, 0.5);
     padding: 10px;
+    text-align: center;
 }
 
 .bgClassInner{
-    background-color: rgb(155, 155, 155);
+    background-color: rgba(61, 110, 119, 0.5);
+    text-align: center;
+    margin-top: 1rem;
 }
+.button1 {
+    border: 1px solid rgb(15, 44, 61);;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+    
+  }

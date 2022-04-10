@@ -3,7 +3,7 @@ import CInner from "./CInner";
 import "./COuter.css";
 import styl from "./COuter.module.css";
 
-export default class COuter extends Component {
+export default class COuter extends Component { //komponent klasowy
 
     constructor(props) {
         super(props)
@@ -25,8 +25,8 @@ export default class COuter extends Component {
         console.log("COuter - componentDidMount()")
         return (
             <div className='bgClassNormal'>
-                <h2 className={styl.bgClassModule}>Komponent zewnetrzny</h2>
-                <button onClick={this.stateChange}>Zmiana stanu</button>
+                <h2 className={styl.bgClassModule}>Stay tuned for more news!</h2>
+                <button className='login-btn' onClick={this.stateChange}>Got it!</button>
                 <CInner/> 
             </div>
         )

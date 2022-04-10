@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 
-export default class Inner extends Component {
+export default class Inner extends Component { //komponent klasowy
     constructor(props){
         super(props)
         this.state = {
@@ -20,8 +20,7 @@ export default class Inner extends Component {
         console.log("CInner - componentDidMount()")
         return (
             <div>
-                <h3 className='bgClassInner'>Komponent wewnetrzny</h3>
-                {/* <h3 className='{styl.bgClassModule}'>Komponent wewnetrzny</h3> */}
+                <h3 className='bgClassInner '>...</h3>
             </div>
         )
     }
